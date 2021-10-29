@@ -51,7 +51,7 @@
 --> Task 2.3: Use the Inject statement to append a row to current database:
 	
 
-	INSERT INTO credential (name,eid) VALUES('Waleed', '17422');
+	INSERT INTO credential (name,eid) VALUES('Rubia', '123');
 
 	After row inserted, go to browser and input as:
 
